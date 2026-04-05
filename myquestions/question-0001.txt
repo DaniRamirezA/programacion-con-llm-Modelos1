@@ -1,0 +1,9 @@
+El Problema:
+
+Recibes un DataFrame de pandas que contiene información de ventas con las columnas: precio, cantidad y categoria.
+
+Tu Misión: Escribe una función llamada calcular_ratio_alto_valor(df) que realice lo siguiente:
+
+Calcule una nueva variable valor_total como precio * cantidad. Calcule el percentil 75 de la columna valor_total. Determine cuántas filas tienen un valor_total mayor a ese percentil. Calcule la proporción de filas que cumplen esta condición respecto al total.
+
+Devuelva un número (float): la proporción de registros de alto valor.
