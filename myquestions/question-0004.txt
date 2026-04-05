@@ -1,0 +1,11 @@
+El Problema:
+
+Recibes un conjunto de datos representado como un array de numpy X.
+
+Tu Misión: Escribe una función llamada varianza_explicada_pca(X) que realice lo siguiente:
+
+Aplique PCA (Principal Component Analysis) con 2 componentes.
+Calcule la varianza explicada por cada componente.
+Sume la varianza explicada total de los dos componentes.
+
+Devuelva un número (float): la suma de la varianza explicada.
