@@ -45,6 +45,6 @@ def generar_caso_de_uso_promedio_top3_por_grupo():
     promedios = top3.groupby("grupo")["puntuacion"].mean()
 
     # D. Convertir a numpy array
-    output_data = promedios.to_numpy()
+    output_data = promedios.sort_index().to_numpy()
 
     return input_data, output_data
