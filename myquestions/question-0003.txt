@@ -1,0 +1,9 @@
+El Problema:
+
+Recibes un conjunto de datos representado como un array de numpy X, sin etiquetas.
+
+Tu Misión: Escribe una función llamada mejor_k_clustering(X) que realice lo siguiente:
+
+Aplique el algoritmo KMeans con k = 2, 3 y 4. Para cada valor de k, calcule el silhouette_score. Determine cuál valor de k produce el mejor resultado.
+
+Devuelva un número (int): el valor de k que maximiza el silhouette_score.
