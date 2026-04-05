@@ -1,0 +1,9 @@
+El Problema:
+
+Recibes un DataFrame de pandas con información de usuarios, que contiene las columnas: usuario, grupo y puntuacion.
+
+Tu Misión: Escribe una función llamada promedio_top3_por_grupo(df) que realice lo siguiente:
+
+Calcule el ranking de los usuarios dentro de cada grupo basado en la puntuación (de mayor a menor). Identifique los usuarios que están dentro del top 3 de cada grupo. Calcule el promedio de la puntuación de estos usuarios para cada grupo.
+
+Devuelva un array de numpy: con los promedios de los top 3 por cada grupo.
