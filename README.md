@@ -1,7 +1,7 @@
 # Programación con LLMs - Modelos I
 
-**Nombre:** Daniela Ramirez Alvarez
-**Correo:** [daniela.ramireza2@udea.edu.co](daniela.ramireza2@udea.edu.co)
+-**Nombre:** Daniela Ramirez Alvarez
+-**Correo:** [daniela.ramireza2@udea.edu.co](daniela.ramireza2@udea.edu.co)
 
 ---
 
